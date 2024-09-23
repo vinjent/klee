@@ -7,7 +7,7 @@ k1ee's homemade wheels built into an vcpkg CMake port.
     "registries": [
         {
             "kind": "git",
-            "repository": "https://github.com/cnSchwarzer/vcpkg-ports.git",
+            "repository": "https://github.com/vinjent/vcpkg-ports.git",
             "packages": [ "k1ee" ]
         }
     ]

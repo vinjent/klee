@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.15)
+cmake_minimum_required (VERSION 3.17)
 
 target_include_directories(k1ee PUBLIC  
     $<INSTALL_INTERFACE:include>    

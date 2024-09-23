@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15) 
+cmake_minimum_required(VERSION 3.17) 
 
 macro(add_k1ee_test _TEST_NAME)
     add_executable(test_${_TEST_NAME} test_${_TEST_NAME}.cpp)
